@@ -156,7 +156,7 @@ You can ask questions and join the development discussion:
 - On the [Keras Google group](https://groups.google.com/forum/#!forum/keras-users).
 
 You can also post **bug reports and feature requests** (only) in [GitHub issues](https://github.com/keras-team/keras/issues).
-Make sure to read [our guidelines](https://github.com/keras-team/keras/blob/master/CONTRIBUTING.md) first.
+Make sure to read [our guidelines](https://github.com/keras-team/keras-io/blob/bdb1a19d989668fc4c0ca09c572d4c8f6fe5c6b6/templates/contributing.md) first.
 
 ---
 
